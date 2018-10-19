@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "ba771683-b719-41c0-a6ab-a209b8b6bd91",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=sdszstorage;AccountKey=FyTx+C7VXHDLGIF6t7vdGVzWq5mU3gB/D5Lkttr/2bMp62TNf2yvOVaOff9rUVl8kvDICkJ/azawtUFLsMXwyw==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=sdszstorage;AccountKey=FyTx+C7VXHDLGIF6t7vdGVzWq5mU3gB/D5Lkttr/2bMp62TNf2yvOVaOff9rUVl8kvDICkJ/azawtUFLsMXwyw==",
+    "WEBSITE_CONTENTSHARE": "sdszfunctionapp856d",
+    "WEBSITE_SITE_NAME": "sdszFunctionApp",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=sdszstorage;AccountKey=FyTx+C7VXHDLGIF6t7vdGVzWq5mU3gB/D5Lkttr/2bMp62TNf2yvOVaOff9rUVl8kvDICkJ/azawtUFLsMXwyw=="
+  }
+}
